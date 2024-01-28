@@ -38,4 +38,4 @@ One can change "enable_symmetric" for the symmetricity and non-symmetricity of t
 Results (Session "Statistics of precision" in the Jupyter notebook) with figures, tables, and .csv files will be saved in IED/results.
 
 # Troubleshooting
-For any enquires, please contact <zhiwei.xu at anu.edu.au>.
+For any enquires, please contact <zwxu064 at gmail dot com>.
