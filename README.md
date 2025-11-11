@@ -3,14 +3,11 @@ This is the official implementation of our paper on [arXiv](https://arxiv.org/ab
 
 If you find this paper or code useful, please cite our work as follows,
 ```
-@inproceedings{Xu:ICML23w,
-  author    = {Zhiwei Xu and
-               Hao Wang and
-               Yanbin Liu and
-               Stephen Gould},
-  title     = {{PMaF}: Deep Declarative Layers for Principal Matrix Features},
-  booktitle = {ICML Workshop on Differentiable Almost Everything: Differentiable Relaxations, Algorithms, Operators, and Simulators},
-  year      = {2023}
+@inproceedings{xu:icmlw2023pmaf,
+  title={PMaF: Deep Declarative Layers for Principal Matrix Features},
+  author={Zhiwei Xu, Hao Wang, Yanbin Liu, and Stephen Gould},
+  booktitle={International Conference on Machine Learning Workshop},
+  year={2023}
 }
 ```
 
